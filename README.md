@@ -6,7 +6,7 @@
 Update path you want to replace filenames. 
 Example: '/Users/your-username/Documents/screenshots'
 
-Run the scipt with `node renameFile.js`
+Run the scipt with `node renameFile.js '/path/to/your/directory'`
 
 ### Output
 Files in the specified path will be renamed with underscores instead of spaces and hyphens.
